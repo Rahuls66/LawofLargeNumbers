@@ -1,4 +1,4 @@
-### Law of Large Numbers 🔢
+### 🔢 Law of Large Numbers 🔢
 * This application is an interactive tool for understanding the concept of Law of Large Numbers
 * It consists of two parts:
   1. Law of Large Numbers
