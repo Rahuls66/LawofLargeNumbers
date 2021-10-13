@@ -1,4 +1,6 @@
 ### 🔢 Law of Large Numbers 🔢
+* Try this application now: [Law of Large Numbers](https://lawoflargenumbers.herokuapp.com/)
+
 * This application is an interactive tool for understanding the concept of Law of Large Numbers
 * It consists of two parts:
   1. Law of Large Numbers
